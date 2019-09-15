@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/wifi_settings"
+        android:orderInCategory="1"
+        android:showAsAction="never"
+        android:titleCondensed="@string/wifiset"
+        android:title="@string/wifi_set" />
+
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="2"
+        android:showAsAction="never"
+        android:titleCondensed="@string/openappset"
+        android:title="@string/open_app_setting" />
+
+    <item
+        android:id="@+id/IP_setting"
+        android:orderInCategory="3"
+        android:showAsAction="never"
+        android:titleCondensed="@string/IPSET"
+        android:title="@string/IP_setting" />
+
+    <item
+        android:id="@+id/look_map"
+        android:orderInCategory="4"
+        android:showAsAction="never"
+        android:titleCondensed="@string/lookmap"
+        android:title="@string/look_map" />
+
+
+
+
+
+</menu>

@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">自行车导航</string>
+    <string name="open_app_setting">打开设置</string>
+    <string name="openappset">设置</string>
+    <string name="IP_setting">设置IP</string>
+    <string name="IPSET">IP</string>
+    <string name="look_map">地图查看</string>
+    <string name="lookmap">打开地图</string>
+    <string name="wifi_set">打开WIFI设置</string>
+    <string name="wifiset">WIFI设置</string>
+    <string name="tab_one">IP连接</string>
+    <string name="tab_two">导航</string>
+</resources>
